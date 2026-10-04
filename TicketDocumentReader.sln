@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketDocumentReader", "TicketDocumentReader.csproj", "{C1DB0A5A-1DE0-42C3-BF6B-42ABCBD8331D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1DB0A5A-1DE0-42C3-BF6B-42ABCBD8331D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1DB0A5A-1DE0-42C3-BF6B-42ABCBD8331D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1DB0A5A-1DE0-42C3-BF6B-42ABCBD8331D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1DB0A5A-1DE0-42C3-BF6B-42ABCBD8331D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBCDF8D0-E287-451E-9A23-BA7C8176DABB}
+	EndGlobalSection
+EndGlobal
